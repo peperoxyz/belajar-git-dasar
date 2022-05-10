@@ -1,2 +1,3 @@
 Menambah isi baris di file3.txt
 Mengubah isi file3
+Mari kita coba buat perubahan dan lihat melalui git diff!
